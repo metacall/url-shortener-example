@@ -1,0 +1,8 @@
+
+{
+    language_id: 'py',
+    path: '.',
+    scripts: [
+      'url-shortener-example/app.py'
+    ]
+  }
